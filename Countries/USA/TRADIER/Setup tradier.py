@@ -14,37 +14,37 @@ ACCOUNTS = {
     "USA_PHC": {
         "env": "production",
         "account": "6YB92742",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
     "USA_PHA": {
         "env": "production",
         "account": "6YB90990",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
     "USA_PHE": {
         "env": "production",
         "account": "6YB90994",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
     "USA_PCF": {
         "env": "production",
         "account": "6YB92716",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
     "USA_PHIC": {
         "env": "production",
         "account": "6YB89227",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
     "USA_PROPERTIES": {
         "env": "production",
         "account": "6YB91149",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
     "USA_AEROSPACE": {
         "env": "production",
         "account": "6YB92272",
-        "token": "gMvpmPwKTqbrPJ89LLWis0yikyWP",
+        "token": " ",
     },
 }
 
