@@ -4,7 +4,7 @@ pip install -r requirements.txt
 cp accounts.example.py accounts_local.py
 python setup_tradier.py
 
-commands   NOTE::SANDBOX IS ACCOUNT NAME WE CAN CHANGE TO PHE , PHC,etc
+commands   NOTE::SANDBOX IS ACCOUNT NAME WE CAN CHANGE TO USA.PROPERTIES, etc...
 
 python tradier.py accounts                          # what is configured
 python tradier.py SANDBOX holdings                  # cash, balances, positions
