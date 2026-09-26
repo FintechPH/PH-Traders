@@ -1,0 +1,2 @@
+cd /c/Users/sunny/Desktop/FID/fidelity-holdings
+python fidelity.py
